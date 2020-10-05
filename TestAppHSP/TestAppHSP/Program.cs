@@ -6,7 +6,7 @@ namespace TestAppHSP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo");
+            Console.WriteLine("Hallo Welt");
             Console.ReadKey();
         }
     }
